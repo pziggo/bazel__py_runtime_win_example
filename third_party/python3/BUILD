@@ -1,0 +1,1 @@
+licenses(["permissive"])  # Python Software Foundation License (PSFL)
